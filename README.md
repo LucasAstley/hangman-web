@@ -32,7 +32,7 @@ The final project repository can be founded [here](https://ytrack.learn.ynov.com
 
 ## 🎥 Demo
 
-![PlaceHolder](https://i.imgur.com/fVVQMqG.gif)
+![demo gif](readmeFiles/demo-gif.gif)
 
 ---
 
