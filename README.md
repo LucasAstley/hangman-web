@@ -6,7 +6,6 @@
 
 ## 📖 Table of contents
 
-
 1. [**📚 About the project**](#-about-the-project)
 2. [**🎥 Demo**](#-demo)
 3. [**🚀 How to run the project**](#-how-to-run-the-project)
@@ -37,6 +36,9 @@ The final project repository can be founded [here](https://ytrack.learn.ynov.com
 ---
 
 ## 🚀 How to run the project
+
+> [!NOTE]
+> A working web hosted version of the project is available at [hangman-web.lucas-astley.live](https://hangman-web.lucas-astley.live/) !
 
 To run the project, you will need to have Go installed on your computer. If you don't have it, you can download it [here](https://golang.org/dl/).
 
